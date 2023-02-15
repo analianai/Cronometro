@@ -1,0 +1,63 @@
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\bin\Debug\net7.0-windows\Timer.exe
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\bin\Debug\net7.0-windows\Timer.deps.json
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\bin\Debug\net7.0-windows\Timer.runtimeconfig.json
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\bin\Debug\net7.0-windows\Timer.dll
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\bin\Debug\net7.0-windows\Timer.pdb
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.csproj.AssemblyReference.cache
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\App.g.cs
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer_MarkupCompile.cache
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer_MarkupCompile.lref
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\MainWindow.baml
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.g.resources
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.AssemblyInfoInputs.cache
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.AssemblyInfo.cs
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.csproj.CoreCompileInputs.cache
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.dll
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\refint\Timer.dll
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.pdb
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\Timer.genruntimeconfig.cache
+D:\dhieg\Documents\Jobs\DH\Turmas\B2B\IBRF\Exemplo\Timer\obj\Debug\net7.0-windows\ref\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\bin\Debug\net7.0-windows\Timer.exe
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\bin\Debug\net7.0-windows\Timer.deps.json
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\bin\Debug\net7.0-windows\Timer.runtimeconfig.json
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\bin\Debug\net7.0-windows\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\bin\Debug\net7.0-windows\Timer.pdb
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.csproj.AssemblyReference.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer_MarkupCompile.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer_MarkupCompile.lref
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.g.resources
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.AssemblyInfo.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\refint\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.pdb
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\Timer.genruntimeconfig.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\b2b-t02-m03-aula08-main\b2b-t02-m03-aula08-main\Cronometro\obj\Debug\net7.0-windows\ref\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\bin\Debug\net7.0-windows\Timer.exe
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\bin\Debug\net7.0-windows\Timer.deps.json
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\bin\Debug\net7.0-windows\Timer.runtimeconfig.json
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\bin\Debug\net7.0-windows\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\bin\Debug\net7.0-windows\Timer.pdb
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.csproj.AssemblyReference.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer_MarkupCompile.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer_MarkupCompile.lref
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.g.resources
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.AssemblyInfo.cs
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\refint\Timer.dll
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.pdb
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\Timer.genruntimeconfig.cache
+C:\Users\Carpe Diem\Documents\IBRF\Repositorio\Codigo\Interface\Cronometro\obj\Debug\net7.0-windows\ref\Timer.dll
